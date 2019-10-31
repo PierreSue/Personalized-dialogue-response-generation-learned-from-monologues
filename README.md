@@ -17,6 +17,8 @@ We are releasing the following:
 All of the code in this repository works with CPU, and GPU.
 
 ## Usage
+![image](https://github.com/PierreSue/Personalized-dialogue-response-generation-learned-from-monologues/blob/master/model.png)
+
 After collecting all the required training data, you can manipulate the hyperparameters on your own and simply do the following step if you want to train the whole model and check its performance :
 
 ```
