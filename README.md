@@ -17,12 +17,13 @@ We are releasing the following:
 All of the code in this repository works with CPU, and GPU.
 
 ## Usage
-After collecting all the required training data, you can manipulate the hyperparameters on your own and do the following step if you want to train the whole model and check its performance :
-'''
+After collecting all the required training data, you can manipulate the hyperparameters on your own and simply do the following step if you want to train the whole model and check its performance :
+
+```
 bash run.sh 
 bash test.sh
 bash seriestest.sh
 bash filetest.sh 
-'''
+```
 
 Remember to change the GPU setting in main.py if you want.
