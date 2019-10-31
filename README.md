@@ -2,7 +2,7 @@
 
 ![image](https://github.com/PierreSue/Personalized-dialogue-response-generation-learned-from-monologues/blob/master/Illstration.png)
 
-This is the implementation code of the [paper - Personalized Dialogue Response
+This is the implementation code of the paper - [Personalized Dialogue Response
 Generation Learned From Monologues](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1696.pdf). We only provide the codes for friends dataset first but you can collect all the dataset you need such as Trump's speech or some lyrics of your favorite singer.
 
 ## Introduction
